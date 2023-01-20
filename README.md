@@ -3,7 +3,7 @@
 # _Bruno Silva do Canto_
 ---
 
-![](https://github.com/Bscanto/Markdown/blob/main/foto.jpeg))
+![](https://github.com/Bscanto/Markdown/blob/main/foto.jpeg)
 
 ## Perfil
 
